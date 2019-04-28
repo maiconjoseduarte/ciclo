@@ -1,0 +1,16 @@
+*:not("nav"){
+    padding: 0px 8px 0px;
+}
+
+.conteudo {
+    background-color: #29b84d !important;
+}
+#form-login {
+    margin: auto;
+    width: 300px;
+    margin-top: 100px;
+}
+#img-qrCode {
+    width: 120px;
+    height: 120px;
+}
